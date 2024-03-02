@@ -1,0 +1,29 @@
+{
+  "name": "uniswap_bot_tct_test",
+  "version": "1.0.0",
+  "description": "Uniswap bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx webpack --mode production --watch --progress",
+    "build": "npx webpack --mode production --progress"
+  },
+  "keywords": [
+    "uniswap"
+  ],
+  "author": "TCT",
+  "license": "ISC",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "teaint_div": "0.0.3",
+    "uniswap_bot_tct": "^1.0.0"
+  },
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
