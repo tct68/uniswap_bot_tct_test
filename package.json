@@ -12,10 +12,10 @@
   ],
   "author": "TCT",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/tct68/uniswap_bot_tct_test",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/tct68/uniswap_bot_tct_test.git"
   },
   "dependencies": {
     "teaint_div": "0.0.3",
